@@ -1,7 +1,7 @@
 # 19CS301-Module33
 
-- **Name:** Subashree A  
-- **Register Number:** 212222020029
+- **Name:** Naveen P
+- **Register Number:** 212222050039
 
 Exp.No:3(a)	STRING- FIND AND REPLACE
 ### AIM
